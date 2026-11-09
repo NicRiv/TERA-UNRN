@@ -2,7 +2,8 @@
 Taller Espacial de la Region Andina
 # 🛰️ Proyecto CanSat - [TERA]
 
-Repositorio oficial de software, diseño mecánico y documentación técnica para el proyecto CanSat del equipo **[Nombre de tu Equipo]** (Participantes: Nicolas Rivera, Katherina Soto, Tiziano Ulloa, Natanael Crespo, Violeta Reser)			
+Repositorio oficial de software, diseño mecánico y documentación técnica para el proyecto CanSat del equipo.
+(Participantes: Violeta Reser, Nicolas Rivera, Natanael Crespo, Katherina Soto, Tiziano Ulloa)			
 
 ---
 
